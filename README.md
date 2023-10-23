@@ -16,6 +16,7 @@ My little project is a stepping stone for you to get inspired, play around, and 
 - AWS CLI set up with Admin powers.
 - AWS SAM CLI ready to go (Make sure it's v1.94.0 or newer! Use `sam --version`).
 - Python 3.9 installed.
+- src/requirements.txt installed
 
 ### How to Deploy
 
