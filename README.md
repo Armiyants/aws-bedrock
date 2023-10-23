@@ -35,7 +35,7 @@ sam build && sam deploy
 
 To test:
 
-````
+```
 aws lambda invoke --region us-east-1 --function-name <function-name> --cli-binary-format raw-in-base64-out --payload file://event.json response.json
 ```
 
